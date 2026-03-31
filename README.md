@@ -1,4 +1,4 @@
-# Natan's Macropad — Take Your Heart
+# Natan's Macropad Take Your Heart
 
 A 16-key Persona 5 themed macropad with RGB LEDs, OLED display, and sandwich mount case. Built as part of the Hack Club Blueprint/Hackpad program.
 
@@ -65,4 +65,4 @@ Here's everything you need to build this macropad:
 ## Extra Stuff
 Persona 5 is one of my favourite games so I had to make a macropad themed around it. The Phantom Thieves logo on the PCB silkscreen came out way better than I expected. Can't wait to build it!
 
-*Made by Natan — Hack Club Blueprint 2026*
+*Made by Natan Hack Club Blueprint 2026*
